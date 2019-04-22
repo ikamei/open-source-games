@@ -7,3 +7,7 @@
 ### Celeste的部分开源文件
   * [Celeste角色动作控制部分的源码](https://github.com/NoelFB/Celeste)
   * [Celeste音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
+
+## 竞速
+### [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
+
