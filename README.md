@@ -20,5 +20,6 @@
  * [2048小游戏](https://github.com/windlany/wechat-weapp-2048) 
  * [「跳一跳」，使用白鹭引擎](https://github.com/wswei99/tiaoyitiao) 
  
- 
+## 引擎
+ * [pyxel：一款基于python的用于制作2D复古游戏的引擎，包含齐全的工具集](https://github.com/kitao/pyxel) 
 
