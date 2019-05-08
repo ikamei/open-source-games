@@ -14,3 +14,7 @@
 ## H5游戏
  * [拼图](https://github.com/leeenx/puzzle) 
 
+## 微信小游戏
+ * [一个滑块拼图游戏](https://github.com/nanwangjkl/sliding_puzzle) 
+ 
+
