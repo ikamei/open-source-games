@@ -16,5 +16,7 @@
 
 ## 微信小游戏
  * [一个滑块拼图游戏](https://github.com/nanwangjkl/sliding_puzzle) 
+ * [2048小游戏](https://github.com/windlany/wechat-weapp-2048) 
+ 
  
 
