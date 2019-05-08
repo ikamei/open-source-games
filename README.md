@@ -13,6 +13,7 @@
 
 ## H5游戏
  * [拼图](https://github.com/leeenx/puzzle) 
+ * [六边形消除游戏(cocos creator制作)](https://github.com/WuBuzi/LBXGame) 
 
 ## 微信小游戏
  * [一个滑块拼图游戏](https://github.com/nanwangjkl/sliding_puzzle) 
