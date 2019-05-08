@@ -11,3 +11,6 @@
 ## 竞速
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
 
+## H5游戏
+ * [拼图](https://github.com/leeenx/puzzle) 
+
