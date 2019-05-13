@@ -17,6 +17,9 @@
 ## 音游
  * [osu!](https://github.com/ppy/osu) 
 
+## 类恶魔城
+ * [DiasporicCrypt](https://gitlab.com/beelzy/DiasporicCrypt) 
+
 ## 沙盒
  * [Craft：A simple Minecraft clone written in C using modern OpenGL (shaders). ](https://github.com/fogleman/Craft) 
 
