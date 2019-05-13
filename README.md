@@ -14,6 +14,9 @@
 ## 桌游
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.](https://github.com/triplea-game/triplea) 
 
+## 音游
+ * [osu!](https://github.com/ppy/osu) 
+
 ## H5游戏
  * [拼图](https://github.com/leeenx/puzzle) 
  * [六边形消除游戏(cocos creator制作)](https://github.com/WuBuzi/LBXGame) 
