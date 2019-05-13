@@ -17,6 +17,9 @@
 ## 音游
  * [osu!](https://github.com/ppy/osu) 
 
+## 沙盒
+ * [Craft：A simple Minecraft clone written in C using modern OpenGL (shaders). ](https://github.com/fogleman/Craft) 
+
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
 
