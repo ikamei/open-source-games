@@ -23,6 +23,7 @@
 
 ## 沙盒
  * [Craft：A simple Minecraft clone written in C using modern OpenGL (shaders). ](https://github.com/fogleman/Craft) 
+ * [Watching Arbitrary Numbers Go Up / A Godot GUI experiment (Godot v2.15) ](https://github.com/YeOldeDM/wangu)
 
 ## 模拟器
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.](https://github.com/Regalis11/Barotrauma) 
