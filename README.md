@@ -33,6 +33,7 @@
 
 ## 模拟器
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.](https://github.com/Regalis11/Barotrauma) 
+ * [FreeSO is Re-implementation of The Sims Online](https://github.com/riperiperi/FreeSO) 
 
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
