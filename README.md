@@ -11,6 +11,8 @@
 
 ## 竞速
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
+ * [Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.](https://github.com/cflavio/yorg) 
+ 
 
 ## 桌游
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.](https://github.com/triplea-game/triplea) 
