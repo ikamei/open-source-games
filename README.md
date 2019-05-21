@@ -17,6 +17,7 @@
 
 ## 音游
  * [osu!](https://github.com/ppy/osu) 
+ * [NecroBlaster : A rhythm game for the metal-obsessed.LUA](https://github.com/ppy/osu) 
 
 ## 类恶魔城
  * [DiasporicCrypt](https://gitlab.com/beelzy/DiasporicCrypt) 
