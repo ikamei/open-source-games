@@ -1,0 +1,50 @@
+Enemy Territory: Legacy is based on the raedwulf-et project which in turn is based on the GPL'd source code of Wolfenstein: Enemy Territory.
+https://github.com/etlegacy/etlegacy
+
+Spring: 1944 is a free, open source (See License.txt file) WWII themed 3D multiplayer game based on the libre Spring RTS Engine
+https://github.com/spring1944/spring1944
+
+escape-space is 2D puzzle game, Escape space before time runs out, or the shuttle will leave without you!
+https://github.com/Calinou/escape-space
+
+DwarfCorp : An open-source 3D colony management game for PC, Mac and Linux
+https://github.com/CompletelyFairGames/dwarfcorp
+
+The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
+https://github.com/Byteron/wesnoth
+
+An open source re-implementation of RollerCoaster Tycoon 2 
+https://github.com/OpenRCT2/OpenRCT2
+
+OpenNFS is An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern scratch built engine. 
+https://github.com/AmrikSadhra/OpenNFS
+
+witchblast is a Roguelite dungeon crawler game 
+https://github.com/Cirrus-Minor/witchblast
+
+violetland is An open source cross-platform game similar to Crimsonland 
+https://github.com/ooxi/violetland
+
+Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
+https://github.com/Cirrus-Minor/witchblast
+
+riiablo : Diablo II remade using Java and LibGDX 
+https://github.com/collinsmith/riiablo
+
+OpenD2 : A project to open source Diablo 2.
+https://github.com/eezstreet/OpenD2
+
+Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
+https://github.com/zaps166/NFSIISE
+
+www is Low-resolution (32x32) HTML5 clone of the famous VVVVVV game 
+https://github.com/alexdantas/www
+
+terrarium is Terraria-clone game.
+https://gitlab.com/hydren/terrarium
+
+OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. 
+https://github.com/OpenMW/openmw/
+
+OpenXcom : Open-source clone of the original X-Com
+https://github.com/OpenXcom/OpenXcom/
