@@ -12,23 +12,17 @@ witchblast is a Roguelite dungeon crawler game
 https://github.com/Cirrus-Minor/witchblast
 需要编译运行看下，项目页面中没有任何简介。
 
-Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
-https://github.com/Cirrus-Minor/witchblast
-
 riiablo : Diablo II remade using Java and LibGDX 
 https://github.com/collinsmith/riiablo
+需要编译运行看下
 
 OpenD2 : A project to open source Diablo 2.
 https://github.com/eezstreet/OpenD2
+需要编译运行看下
 
 Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 https://github.com/zaps166/NFSIISE
-
-www is Low-resolution (32x32) HTML5 clone of the famous VVVVVV game 
-https://github.com/alexdantas/www
-
-terrarium is Terraria-clone game.
-https://gitlab.com/hydren/terrarium
+需要编译运行看下, 另外此工程有submodule的用法，
 
 OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. 
 https://github.com/OpenMW/openmw/
