@@ -37,6 +37,7 @@
 ## 沙盒
  * [Craft：A simple Minecraft clone written in C using modern OpenGL (shaders). ](https://github.com/fogleman/Craft) 
  * [Watching Arbitrary Numbers Go Up / A Godot GUI experiment (Godot v2.15) ](https://github.com/YeOldeDM/wangu)
+ * [terrarium is Terraria-clone game.](https://gitlab.com/hydren/terrarium)
 
 ## first-person
  * [Barony is a 3D, first-person roguelike, C++. ](https://github.com/TurningWheel/Barony) 
@@ -48,6 +49,9 @@
 
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
+
+## Open World RPG
+ * [OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. ](https://github.com/OpenMW/openmw/) 
 
 ## 即时战略游戏 (RTS)
  * [openage is Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
