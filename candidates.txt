@@ -5,27 +5,6 @@ https://github.com/etlegacy/etlegacy
 escape-space is 2D puzzle game, Escape space before time runs out, or the shuttle will leave without you!
 https://github.com/Calinou/escape-space
 
-An open source re-implementation of RollerCoaster Tycoon 2 
-https://github.com/OpenRCT2/OpenRCT2
-
 witchblast is a Roguelite dungeon crawler game 
 https://github.com/Cirrus-Minor/witchblast
 需要编译运行看下，项目页面中没有任何简介。
-
-riiablo : Diablo II remade using Java and LibGDX 
-https://github.com/collinsmith/riiablo
-需要编译运行看下
-
-OpenD2 : A project to open source Diablo 2.
-https://github.com/eezstreet/OpenD2
-需要编译运行看下
-
-Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
-https://github.com/zaps166/NFSIISE
-需要编译运行看下, 另外此工程有submodule的用法，
-
-OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. 
-https://github.com/OpenMW/openmw/
-
-OpenXcom : Open-source clone of the original X-Com
-https://github.com/OpenXcom/OpenXcom/

@@ -1,5 +1,4 @@
 % 开源游戏
-% ikamei
 
 简介
 ==================
@@ -23,6 +22,8 @@
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
  * [Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.](https://github.com/cflavio/yorg) 
  * [OpenNFS is An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern scratch built engine. ](https://github.com/AmrikSadhra/OpenNFS)
+ * [Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!](https://github.com/zaps166/NFSIISE)
+   - 需要编译运行看下, 另外此工程有submodule的用法，
 
 ## 桌游
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.](https://github.com/triplea-game/triplea) 
@@ -46,12 +47,14 @@
 ## 模拟器
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.](https://github.com/Regalis11/Barotrauma) 
  * [FreeSO is Re-implementation of The Sims Online](https://github.com/riperiperi/FreeSO) 
+ * [An open source re-implementation of RollerCoaster Tycoon 2](https://github.com/OpenRCT2/OpenRCT2) 
 
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
-
-## Open World RPG
  * [OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. ](https://github.com/OpenMW/openmw/) 
+ * [riiablo : Diablo II remade using Java and LibGDX.](https://github.com/collinsmith/riiablo) 
+   - 需要编译运行看下
+ * [OpenD2 : A project to open source Diablo 2.](https://github.com/eezstreet/OpenD2) 
 
 ## 即时战略游戏 (RTS)
  * [openage is Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
@@ -60,6 +63,7 @@
 
 ## 回合战略游戏
  * [The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.](https://github.com/Byteron/wesnoth)
+ * [OpenXcom : Open-source clone of the original X-Com.](https://github.com/OpenXcom/OpenXcom/)
 
 ## 回合制
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3](https://github.com/mikasasukasa/Godot-TBS-RPG)
