@@ -4,9 +4,6 @@ https://github.com/etlegacy/etlegacy
 escape-space is 2D puzzle game, Escape space before time runs out, or the shuttle will leave without you!
 https://github.com/Calinou/escape-space
 
-The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
-https://github.com/Byteron/wesnoth
-
 An open source re-implementation of RollerCoaster Tycoon 2 
 https://github.com/OpenRCT2/OpenRCT2
 

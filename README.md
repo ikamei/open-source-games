@@ -50,6 +50,8 @@
  * [Spring: 1944 is a free, open source WWII themed 3D multiplayer game based on the libre Spring RTS Engine](https://github.com/spring1944/spring1944)
  * [DwarfCorp : An open-source 3D colony management game for PC, Mac and Linux](https://github.com/CompletelyFairGames/dwarfcorp)
 
+## 回合战略游戏
+ * [The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.](https://github.com/Byteron/wesnoth)
 
 ## 回合制
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3](https://github.com/mikasasukasa/Godot-TBS-RPG)
