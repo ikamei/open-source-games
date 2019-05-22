@@ -8,6 +8,9 @@
 
 分类
 ==================
+## TopDown Shooter
+  * [violetland is An open source cross-platform game similar to Crimsonland](https://github.com/ooxi/violetland)
+
 ## 平台游戏
   * [Celeste角色动作控制部分的源码](https://github.com/NoelFB/Celeste)
   * [Celeste音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
@@ -18,7 +21,7 @@
 ## 竞速
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
  * [Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.](https://github.com/cflavio/yorg) 
- 
+ * [OpenNFS is An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern scratch built engine. ](https://github.com/AmrikSadhra/OpenNFS)
 
 ## 桌游
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.](https://github.com/triplea-game/triplea) 

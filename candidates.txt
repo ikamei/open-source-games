@@ -1,5 +1,6 @@
 Enemy Territory: Legacy is based on the raedwulf-et project which in turn is based on the GPL'd source code of Wolfenstein: Enemy Territory.
 https://github.com/etlegacy/etlegacy
+需要原游戏的数据才可以运行
 
 escape-space is 2D puzzle game, Escape space before time runs out, or the shuttle will leave without you!
 https://github.com/Calinou/escape-space
@@ -7,14 +8,9 @@ https://github.com/Calinou/escape-space
 An open source re-implementation of RollerCoaster Tycoon 2 
 https://github.com/OpenRCT2/OpenRCT2
 
-OpenNFS is An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern scratch built engine. 
-https://github.com/AmrikSadhra/OpenNFS
-
 witchblast is a Roguelite dungeon crawler game 
 https://github.com/Cirrus-Minor/witchblast
-
-violetland is An open source cross-platform game similar to Crimsonland 
-https://github.com/ooxi/violetland
+需要编译运行看下，项目页面中没有任何简介。
 
 Witch Blast is a free roguelite dungeon crawl shooter heavily inspired from Binding Of Isaac.
 https://github.com/Cirrus-Minor/witchblast
