@@ -45,9 +45,11 @@
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
 
-## 即时战略游戏
+## 即时战略游戏 (RTS)
  * [openage is Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
  * [Spring: 1944 is a free, open source WWII themed 3D multiplayer game based on the libre Spring RTS Engine](https://github.com/spring1944/spring1944)
+ * [DwarfCorp : An open-source 3D colony management game for PC, Mac and Linux](https://github.com/CompletelyFairGames/dwarfcorp)
+
 
 ## 回合制
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3](https://github.com/mikasasukasa/Godot-TBS-RPG)
