@@ -1,8 +1,13 @@
-# open-source-games
+% 开源游戏
+% ikamei
+
+简介
+==================
 收集整理开源的游戏列表。
-
-
 如果你们有好的推荐，请发issue。
+
+分类
+==================
 ## 平台游戏
   * [Celeste角色动作控制部分的源码](https://github.com/NoelFB/Celeste)
   * [Celeste音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
@@ -30,7 +35,7 @@
  * [Watching Arbitrary Numbers Go Up / A Godot GUI experiment (Godot v2.15) ](https://github.com/YeOldeDM/wangu)
 
 ## first-person
- * [Barony is a 3D, first-person roguelike, C++]. ]https://github.com/TurningWheel/Barony) 
+ * [Barony is a 3D, first-person roguelike, C++. ](https://github.com/TurningWheel/Barony) 
  * [OpenTESArena:Open-source re-implementation of The Elder Scrolls: Arena](https://github.com/afritz1/OpenTESArena) 
 
 ## 模拟器
@@ -42,6 +47,7 @@
 
 ## 即时战略游戏
  * [openage is Free (as in freedom) open source clone of the Age of Empires II engine](https://github.com/SFTtech/openage) 
+ * [Spring: 1944 is a free, open source WWII themed 3D multiplayer game based on the libre Spring RTS Engine](https://github.com/spring1944/spring1944)
 
 ## 回合制
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3](https://github.com/mikasasukasa/Godot-TBS-RPG)

@@ -1,9 +1,6 @@
 Enemy Territory: Legacy is based on the raedwulf-et project which in turn is based on the GPL'd source code of Wolfenstein: Enemy Territory.
 https://github.com/etlegacy/etlegacy
 
-Spring: 1944 is a free, open source (See License.txt file) WWII themed 3D multiplayer game based on the libre Spring RTS Engine
-https://github.com/spring1944/spring1944
-
 escape-space is 2D puzzle game, Escape space before time runs out, or the shuttle will leave without you!
 https://github.com/Calinou/escape-space
 
