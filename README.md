@@ -8,15 +8,19 @@
   * [Celeste音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
   * [Platshoot, a free/libre 2D side-scroller shooter game（godot 2.15）](https://github.com/Calinou/platshoot)
   * [Cave Escape（Godot v2.15）: An open source platformer made in the Godot engine as a practice project. Utilizing free assets](https://github.com/alexandreychuk/cave-escape)
+  * [a-maze-for-owls,javascript](https://github.com/jani-nykanen/a-maze-for-owls)
 
 ## 竞速
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor。](https://github.com/stuntrally/stuntrally) 
+ * [Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.](https://github.com/cflavio/yorg) 
+ 
 
 ## 桌游
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.](https://github.com/triplea-game/triplea) 
 
 ## 音游
  * [osu!](https://github.com/ppy/osu) 
+ * [NecroBlaster : A rhythm game for the metal-obsessed.LUA](https://github.com/ppy/osu) 
 
 ## 类恶魔城
  * [DiasporicCrypt](https://gitlab.com/beelzy/DiasporicCrypt) 
@@ -25,8 +29,13 @@
  * [Craft：A simple Minecraft clone written in C using modern OpenGL (shaders). ](https://github.com/fogleman/Craft) 
  * [Watching Arbitrary Numbers Go Up / A Godot GUI experiment (Godot v2.15) ](https://github.com/YeOldeDM/wangu)
 
+## first-person
+ * [Barony is a 3D, first-person roguelike, C++]. ]https://github.com/TurningWheel/Barony) 
+ * [OpenTESArena:Open-source re-implementation of The Elder Scrolls: Arena](https://github.com/afritz1/OpenTESArena) 
+
 ## 模拟器
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.](https://github.com/Regalis11/Barotrauma) 
+ * [FreeSO is Re-implementation of The Sims Online](https://github.com/riperiperi/FreeSO) 
 
 ## MMORPG
  * [The MMORPG Meridian 59](https://github.com/Meridian59/Meridian59) 
