@@ -1,3 +1,6 @@
+Open Fodder: An open source port of Cannon Fodder
+https://github.com/OpenFodder/openfodder
+
 Enemy Territory: Legacy is based on the raedwulf-et project which in turn is based on the GPL'd source code of Wolfenstein: Enemy Territory.
 https://github.com/etlegacy/etlegacy
 需要原游戏的数据才可以运行
