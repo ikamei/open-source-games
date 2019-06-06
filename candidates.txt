@@ -1,3 +1,9 @@
+The Ren'Py Visual Novel Engine 
+https://github.com/renpy/renpy
+
+Rakugo is framemork (inspired by Ren'Py) for story driven games in Godot or like my friend call it Story Management Plugin.
+https://github.com/jebedaia360/Rakugo
+
 Open Fodder: An open source port of Cannon Fodder
 https://github.com/OpenFodder/openfodder
 
