@@ -30,6 +30,7 @@
 ## 音游
  * [osu!(C#)](https://github.com/ppy/osu) 
  * [NecroBlaster : A rhythm game for the metal-obsessed(LUA)](https://github.com/buntine/necroblaster) 
+ * [MediocreMapper : A modded EditSaber for making beat saber maps.(C++)](https://github.com/squeaksies/MediocreMapper)
 
 ## 类恶魔城
  * [DiasporicCrypt(Godot 3)](https://gitlab.com/beelzy/DiasporicCrypt) 
