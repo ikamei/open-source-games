@@ -70,7 +70,7 @@
  * [curseofwar : A Real Time Strategy game for Linux. (C)](https://github.com/a-nikolaev/curseofwar)
 
 ## 回合战略游戏
- * [The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.(C++)](https://github.com/Byteron/wesnoth)
+ * [The Battle for Wesnoth : An open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.(C++)](https://github.com/wesnoth/wesnoth)
  * [Wesnoth 2.0, being developed in the Godot engine.(Godot 3)](https://github.com/wesnoth/haldric)
  * [OpenXcom : Open-source clone of the original X-Com.(C++)](https://github.com/OpenXcom/OpenXcom/)
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.(Java)](https://github.com/triplea-game/triplea) 
