@@ -20,6 +20,7 @@
   * [Cave Escape : An open source platformer made in the Godot engine as a practice project. Utilizing free assets.(Godot v2.15)](https://github.com/alexandreychuk/cave-escape)
   * [a-maze-for-owls.(javascript)](https://github.com/jani-nykanen/a-maze-for-owls)
   * [www is Low-resolution (32x32) HTML5 clone of the famous VVVVVV game.(javascript)](https://github.com/alexdantas/www)
+  * [Cave Story Engine 2 is a decompilation of Cave Story.(C++)](https://github.com/cuckydev/Cave-Story-Engine-2)
 
 ## 竞速
  * [Stunt Rally:一款3D竞速游戏，基于VDrift，OGRE和track editor.(C++)](https://github.com/stuntrally/stuntrally) 
