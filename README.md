@@ -71,3 +71,5 @@
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3.(Godot 2.1.3)](https://github.com/mikasasukasa/Godot-TBS-RPG)
  * [Tanks-of-Freedom, Indie Turn Based Strategy in Isometric Pixel Art (Godot)](https://github.com/w84death/Tanks-of-Freedom)
 
+## 视觉小说
+ * [Rakugo : Framework (inspired by Ren'Py) for story driven games in Godot. (Godot 3)](https://github.com/jebedaia360/Rakugo)
