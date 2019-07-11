@@ -47,6 +47,7 @@
 ## first-person
  * [Barony is a 3D, first-person roguelike. (C++)](https://github.com/TurningWheel/Barony) 
  * [OpenTESArena:Open-source re-implementation of The Elder Scrolls: Arena.(C++)](https://github.com/afritz1/OpenTESArena) 
+ * [A source port of Blake Stone.(C++)](https://github.com/bibendovsky/bstone) 
 
 ## 模拟器
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.(C#)](https://github.com/Regalis11/Barotrauma) 
