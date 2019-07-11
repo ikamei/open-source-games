@@ -26,6 +26,8 @@
  * [OpenNFS is An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern scratch built engine.(C++)](https://github.com/AmrikSadhra/OpenNFS)
  * [Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!(C)](https://github.com/zaps166/NFSIISE)
    * 需要编译运行看下, 另外此工程有submodule的用法，
+ * [Sonic Robo Blast 2 is a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy.(C++)](https://github.com/STJr/SRB2)
+
 
 ## 音游
  * [osu!(C#)](https://github.com/ppy/osu) 
