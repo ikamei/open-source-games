@@ -69,3 +69,5 @@
  * [OpenXcom : Open-source clone of the original X-Com.(C++)](https://github.com/OpenXcom/OpenXcom/)
  * [TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.(Java)](https://github.com/triplea-game/triplea) 
  * [Godot-TBS-RPG is Turn-based strategy RPG made using Godot 2.1.3.(Godot 2.1.3)](https://github.com/mikasasukasa/Godot-TBS-RPG)
+ * [Tanks-of-Freedom, Indie Turn Based Strategy in Isometric Pixel Art (Godot)](https://github.com/w84death/Tanks-of-Freedom)
+
