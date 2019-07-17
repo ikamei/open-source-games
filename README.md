@@ -35,6 +35,7 @@
  * [osu!(C#)](https://github.com/ppy/osu) 
  * [NecroBlaster : A rhythm game for the metal-obsessed(LUA)](https://github.com/buntine/necroblaster) 
  * [MediocreMapper : A modded EditSaber for making beat saber maps.(C++)](https://github.com/squeaksies/MediocreMapper)
+ * [stepmania : Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use. (C++)](https://github.com/stepmania/stepmania)
 
 ## 类恶魔城
  * [DiasporicCrypt(Godot 3)](https://gitlab.com/beelzy/DiasporicCrypt) 
