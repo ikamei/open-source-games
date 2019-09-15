@@ -56,6 +56,7 @@
  * [Barotrauma is A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.(C#)](https://github.com/Regalis11/Barotrauma) 
  * [FreeSO is Re-implementation of The Sims Online.(C#)](https://github.com/riperiperi/FreeSO) 
  * [An open source re-implementation of RollerCoaster Tycoon 2.(C++)](https://github.com/OpenRCT2/OpenRCT2) 
+ * [Open source clone of Theme Hospital(Lua, C++)](https://github.com/CorsixTH/CorsixTH) 
 
 ## MMORPG
  * [The MMORPG Meridian 59.(C++)](https://github.com/Meridian59/Meridian59) 
